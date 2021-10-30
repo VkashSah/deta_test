@@ -5,8 +5,9 @@ const upload = require("express-fileupload");
 const app = express();
 
 app.use(upload());
+const project_key = process.env.project_key;
 
-const deta = Deta("c0fgekps_vySAdiw5eCdmB4TXqo6dCS5a7BEJBoiT");
+const deta = Deta(project_key);
 const profile = deta.Drive("profile_image");
 const cover = deta.Drive("cover_image");
 
