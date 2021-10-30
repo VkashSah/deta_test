@@ -1,0 +1,1 @@
+{"id":"cb5b135d-e90d-4dff-b7ec-9af59c1716e6","space":12691,"runtime":"nodejs14.x","name":"mkablr","path":"fu4j04","project":"c0fgekps","account":"144798365827","region":"ap-southeast-1","deps":["express@^4.17.1","express-fileupload@^1.2.1","deta@^1.0.1","sharp@^0.29.2","compress-images@^1.9.9"],"envs":null,"public":true,"log_level":"debug","cron":""}

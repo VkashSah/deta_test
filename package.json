@@ -1,0 +1,19 @@
+{
+  "name": "mkablr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compress-images": "^1.9.9",
+    "deta": "^1.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "sharp": "^0.29.2"
+  }
+}
